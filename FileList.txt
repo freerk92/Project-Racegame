@@ -13,6 +13,8 @@ Software\ASUS\ATKPackage\XP32_Vista32_Vista64_Win7_32_Win7_64_Win8_32_Win8_64_1.
 
 Software\ASUS\eManual(N550JV_N550JA_N550LF_Q550LF)\Win7_32_Win7_64_Win8_32_Win8_64_1.0.7                                        eManual Utility                                                                                                (V1.0.7)             
 
+TLOLOLOLOLO
+
 Software\ASUS\Instant_Key\Win7_32_Win7_64_Win8_32_Win8_64_1.1.1                                                                 ASUS Instant Key                                                                                               (1.1.1)              
 
 Software\ASUS\LiveUpdate\XP32_Vista32_Vista64_Win7_32_Win7_64_Win8_32_Win8_64_3.2.2                                             It is an application that allows you to update the BIOS online or via a downloaded BIOS file.                  (V3.2.2)             
